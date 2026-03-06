@@ -1,4 +1,4 @@
-# AssetVault IT Asset Manager
+# AssetVault IT Asset Hardware Information Generator
 
 ![AssetVault Logo](AssetVault_app_icon.png)
 
